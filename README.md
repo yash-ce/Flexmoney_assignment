@@ -1,7 +1,8 @@
 # Flexmoney_assignment
 
 1. Clone the repository into your system
-git clone https://github.com/yash-ce/Flexmoney_assignment.git
+
+    git clone https://github.com/yash-ce/Flexmoney_assignment.git
 
 2. cd .\Flexmoney_assignment\
 
