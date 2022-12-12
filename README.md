@@ -39,4 +39,15 @@ python .\manage.py migrate
   you access the website going to this link
   
   http://127.0.0.1:8000/
- 
+  
+10. For acessing the backend create superuser
+
+  python manage.py createsuperuser
+  
+  run the server again
+
+11.You can access the backend by opening this url
+
+  http://127.0.0.1:8000/admin
+  
+  
