@@ -52,3 +52,34 @@ python .\manage.py migrate
   http://127.0.0.1:8000/admin
   
   
+  
+  application form looks like 
+  
+  
+  ![1](https://user-images.githubusercontent.com/66213227/207026514-41cceff9-978f-4104-b5e1-e2afed9d9aef.png)
+
+
+![2](https://user-images.githubusercontent.com/66213227/207026600-a10b89ba-ef00-4611-998a-16d4791f8099.png)
+
+![3](https://user-images.githubusercontent.com/66213227/207026652-20cd4eb8-01a6-437f-84f2-a3ea952a71bd.png)
+
+![4](https://user-images.githubusercontent.com/66213227/207026692-aa1b4223-d399-479a-b584-5d2a699247b4.png)
+![5](https://user-images.githubusercontent.com/66213227/207026730-849dcb5e-ebf7-4348-a00d-a26b810c43bb.png)
+
+![6](https://user-images.githubusercontent.com/66213227/207026761-adc88b25-9f64-44c2-9441-07e2ae65057a.png)
+
+![7](https://user-images.githubusercontent.com/66213227/207026800-00665996-eee5-4a54-9f81-6d68b46dc1f1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
