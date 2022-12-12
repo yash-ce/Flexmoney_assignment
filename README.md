@@ -4,54 +4,56 @@ This is a complte Yoga application Form with backend intigraded.
 
 1. Clone the repository into your system
 
-    git clone https://github.com/yash-ce/Flexmoney_assignment.git
+     git clone https://github.com/yash-ce/Flexmoney_assignment.git
 
-2. cd .\Flexmoney_assignment\
+2. Go to this directory
+     cd .\Flexmoney_assignment\
 
 3. create virtual environment into your system
- py -m venv myproject
-4. Run this command  
-.\myproject\Scripts\activate
+     py -m venv myproject
+
+4. Run this command to activate virtual environemnt 
+     .\myproject\Scripts\activate
 
 5. From this ( .\myproject\Scripts\activate  )command if are getting error like "execution of scripts is disabled on this system."
-then use this link for debugging  
-https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system
+     
+     then use this link for debugging  
+     
+     https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system
 
-then after debugging run .\myproject\Scripts\activate again 
+     then after solving issue run .\myproject\Scripts\activate again to  activate virtual environemnt 
 
-6. if your virtual environment is activated 
-  then run this command
+6. if your virtual environment is activated then run this command
+
+     cd .\yoga\
+
+7.  Install the requirements for this project use this command
+
+     pip install -r .\requirements.txt
   
-  cd .\yoga\
+8.   apply migrations 
 
-7. Install the requirements for this project use this command
+     python .\manage.py makemigrations
 
-  pip install -r .\requirements.txt
+     python .\manage.py migrate
+
+9.   Run the server 
+
+     python .\manage.py runserver
   
-8. apply migrations 
-
-  python .\manage.py makemigrations
-
-9.apply changes 
-python .\manage.py migrate
-
-10. Run the server 
-
-  python .\manage.py runserver
+     you access the website going to this link
   
-  you access the website going to this link
+     http://127.0.0.1:8000/
   
-  http://127.0.0.1:8000/
+10.  For acessing the backend create superuser
+
+     python manage.py createsuperuser
   
-10. For acessing the backend create superuser
+      run the server again
 
-  python manage.py createsuperuser
-  
-  run the server again
+11.   You can access the backend by opening this url
 
-11.You can access the backend by opening this url
-
-  http://127.0.0.1:8000/admin
+      http://127.0.0.1:8000/admin
   
   
   
