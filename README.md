@@ -1,5 +1,7 @@
 # Flexmoney_assignment
 
+This is a complte Yoga application Form with backend intigraded. 
+
 1. Clone the repository into your system
 
     git clone https://github.com/yash-ce/Flexmoney_assignment.git
@@ -86,3 +88,4 @@ python .\manage.py migrate
 
 
   
+![Uploading 8.png…]()
