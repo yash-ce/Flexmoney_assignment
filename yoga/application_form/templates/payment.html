@@ -6,6 +6,7 @@
 </head>
 <body>
     <form method = "post" enctype="multipart/form-data">
+        <p>Please ensure payment of 500/- Rs. on this number - 6757121232</p>
         {% csrf_token %}
         {{ form.as_p }}
         <button type="submit">Upload</button>
