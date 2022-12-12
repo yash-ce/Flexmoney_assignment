@@ -7,12 +7,15 @@ This is a complte Yoga application Form with backend intigraded.
      git clone https://github.com/yash-ce/Flexmoney_assignment.git
 
 2. Go to this directory
+
      cd .\Flexmoney_assignment\
 
 3. create virtual environment into your system
+
      py -m venv myproject
 
 4. Run this command to activate virtual environemnt 
+
      .\myproject\Scripts\activate
 
 5. From this ( .\myproject\Scripts\activate  )command if are getting error like "execution of scripts is disabled on this system."
@@ -89,5 +92,4 @@ This is a complte Yoga application Form with backend intigraded.
 
 
 
-  
-![Uploading 8.png…]()
+
